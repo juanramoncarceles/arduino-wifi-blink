@@ -1,0 +1,7 @@
+{
+    "sketch": "Wifi_Blink.ino",
+    "configuration": "mode=off",
+    "board": "arduino:megaavr:uno2018",
+    "output": "build",
+    "port": "COM3"
+}
